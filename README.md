@@ -1,12 +1,12 @@
 <h1> Ordered Calculator Using Stack Method </h1>
-A calculator that has an order of operations using the stack method that receives the input from the user and extracts the operands and operators, performs calculations by using a stack to arrange the operations, and finally gives out the results on the screen. The order that is used to simplify expressions is called the order of operations, by following this order, we can solve all the problems using PEMDAS which stands for:
+A calculator that has an order of operations using the stack method that receives the input from the user and extracts the operands and operators, performs calculations by using a stack to arrange the operations and finally gives out the results on the screen. The order that is used to simplify expressions is called the order of operations, by following this order, we can solve all the problems using PEMDAS which stands for:
 
-P – Parentheses 
-E - Exponents
-M - Multiplication
-D - Division
-A - Addition
-S - Subtraction
+- P – Parentheses
+- E - Exponents
+- M - Multiplication
+- D - Division
+- A - Addition
+- S - Subtraction
 
 
 
